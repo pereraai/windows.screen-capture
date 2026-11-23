@@ -1,0 +1,1 @@
+powershell -NoProfile -WindowStyle Hidden -ExecutionPolicy Bypass -File "C:\path\to\screens.ps1"
